@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Material-UI-Demo/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Material-UI-Demo/static/js/main.782a5fb0.chunk.js",
+    "main.js.map": "/Material-UI-Demo/static/js/main.782a5fb0.chunk.js.map",
+    "runtime-main.js": "/Material-UI-Demo/static/js/runtime-main.1742d7fc.js",
+    "runtime-main.js.map": "/Material-UI-Demo/static/js/runtime-main.1742d7fc.js.map",
+    "static/js/2.d8255846.chunk.js": "/Material-UI-Demo/static/js/2.d8255846.chunk.js",
+    "static/js/2.d8255846.chunk.js.map": "/Material-UI-Demo/static/js/2.d8255846.chunk.js.map",
+    "static/js/3.0b973518.chunk.js": "/Material-UI-Demo/static/js/3.0b973518.chunk.js",
+    "static/js/3.0b973518.chunk.js.map": "/Material-UI-Demo/static/js/3.0b973518.chunk.js.map",
+    "index.html": "/Material-UI-Demo/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Material-UI-Demo/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d8255846.chunk.js.LICENSE.txt": "/Material-UI-Demo/static/js/2.d8255846.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1742d7fc.js",
+    "static/js/2.d8255846.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.782a5fb0.chunk.js"
+  ]
+}
